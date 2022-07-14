@@ -11,7 +11,7 @@ A Terminal/CMD based TextRPG written in Python3.
 - translated to C with nuitka and then compiled with mingw64 so doesn't require Python to be installed.
 
 ## Download: 
-https://github.com/attax420/TextRPG/releases/tag/alpha_release0.17  
+https://github.com/alex190291/PythonTextRPG/releases/tag/alpha_release0.17  
 
 If you want to run it from source, make sure you have Python3 and the "termcolor" module installed (pip install termcolor).
 
